@@ -9,9 +9,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@onesignal/onesignal-vue3": "^2.2.2",
+    "@supabase/supabase-js": "^2.50.0",
     "@tailwindcss/vite": "^4.1.10",
+    "chart.js": "^4.4.9",
+    "qrcode.vue": "^3.6.0",
     "tailwindcss": "^4.1.10",
-    "vue": "^3.5.13"
+    "vue": "^3.5.13",
+    "vue-chartjs": "^5.3.2"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.2.3",
