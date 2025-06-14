@@ -96,7 +96,7 @@ async function handleRegister() {
 </script>
 
 <template>
-  <div data-theme="halloween"
+  <div data-theme="forest"
     class="min-h-screen bg-gradient-to-br from-primary/20 via-secondary/10 to-accent/20 flex flex-col lg:flex-row items-center justify-center">
     <!-- Branding Section -->
     <div class="w-full lg:w-1/2 flex flex-col items-center justify-center mb-10 lg:mb-0">
