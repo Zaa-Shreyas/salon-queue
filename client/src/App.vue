@@ -4,4 +4,4 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <HelloWorld />
-  </template>
+</template>
